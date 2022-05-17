@@ -1,0 +1,36 @@
+div.dw_card {
+  display: none;
+  display: flex;
+}
+
+.balance_subtitle {
+  color: lightgrey;
+  font-size: small;
+  margin-left: 5%;
+}
+
+ion-card.balance_card {
+  box-shadow: 3px 3px 7px 3px lightgray;
+  margin: 15% 0;
+  display: flex;
+  justify-content: space-around;
+  height: 100px;
+  padding: 3%;
+}
+
+.balanceDate {
+  flex: 1;
+}
+
+ion-card > div.balance {
+  flex: 4;
+  text-align: center;
+  align-content: center;
+  align-self: center;
+  font-size: 250%;
+}
+
+.balance_category {
+  flex: 2;
+  align-self: center;
+}

@@ -1,0 +1,16 @@
+/* .balance {
+  --indicator-box-shadow: none;
+  border-bottom: 1px solid lightgray;
+  border-radius: 0;
+}
+
+.balance::part(indicator) {
+  border-bottom: 3px solid lightgray;
+}
+
+.ion-header-title {
+  z-index: 999;
+} */
+.ql-editor {
+  min-height: 200px;
+}

@@ -1,0 +1,17 @@
+.grid-init {
+  height: 100vh;
+  margin: auto;
+}
+
+.box-init {
+  font-size: larger;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ion-item.signup_item {
+  
+  --inner-border-width: 0px 0px 0px 0px;
+}

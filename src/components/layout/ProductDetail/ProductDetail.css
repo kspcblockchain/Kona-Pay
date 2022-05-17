@@ -1,0 +1,11 @@
+ion-button.background {
+  --background: none;
+  color: black;
+}
+
+ion-item.background {
+  --inner-border-width: 0;
+}
+ion-header.background {
+  --inner-border-width: 0;
+}

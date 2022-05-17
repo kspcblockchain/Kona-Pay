@@ -1,0 +1,7 @@
+{
+  "name": "konapay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
